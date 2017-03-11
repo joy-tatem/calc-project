@@ -1,0 +1,12 @@
+body{background-color: black;, }
+h1{color: #99FF00;}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #99FF00;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+    
